@@ -109,7 +109,7 @@ input {
 }
 
 .keyboard-icon {
-	background: url(/assets/keyboard.png) no-repeat center;
+	background: url("../assets/keyboard.png") no-repeat center;
 	cursor: pointer;
 	padding: 0 8px;
 	width: 24px;
